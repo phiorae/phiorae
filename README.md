@@ -53,4 +53,4 @@ Banner grabbing · CVE matching · MAC OUI lookup · Risk scoring · JSON report
 ## Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/taaffe1te)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:traefl21@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:phiorae@proton.me)
