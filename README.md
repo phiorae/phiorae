@@ -1,4 +1,4 @@
-# Makar Mironov
+
 
 **IoT Security Researcher | Firmware RE | Embedded Systems**  
 Moscow · BMSTU 2026 · traefl21@gmail.com
